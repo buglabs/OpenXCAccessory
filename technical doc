@@ -9,20 +9,40 @@ The base board contains an Atmel SAMA5 (Cortex-A5) running embedded Linux. All a
 
 The first in the line of accessories is a 3G Modem to enable sharing of vehicle data directly with the cloud, OTA updates to the Modem configuration, and still allows use of the Enabler app.
 
-Table of Contents
-Getting Started
-Install
-Directory Structure
-Scripts
-Firmware Update
-Kernel Upgrade
-Configuration
-Design Sources
-Electrical
-Mechanical
-Assembly
-License Disclosure
-License
+**Table of Contents**
+- Getting Started
+- Install
+- Directory Structure
+- Scripts
+- Firmware Update
+- Kernel Upgrade
+- [Configuration] (#configuration)
+- [Design Sources] (#design_sources)
+  - [Electrical] (#electrical)
+	- [Mechanical] (#mechanical)
+  - [Assembly] (#assembly)
+- [License Disclosure] (#license)
+
+
+## Configuration
+
+
+## Design Sources
+
+
+### Electrical
+
+
+
+### Mechanical
+
+
+
+### Assembly
+
+
+
+## License
 Copyright (c) 2015 Ford Motor Company
 
 Licensed under the BSD license.
