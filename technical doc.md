@@ -10,18 +10,48 @@ The base board contains an Atmel SAMA5 (Cortex-A5) running embedded Linux. All a
 The first in the line of accessories is a 3G Modem to enable sharing of vehicle data directly with the cloud, OTA updates to the Modem configuration, and still allows use of the Enabler app.
 
 **Table of Contents**
-- Getting Started
-- Install
-- Directory Structure
-- Scripts
-- Firmware Update
-- Kernel Upgrade
+- [Getting Started] (#getting-started)
+	- [Install] (#install)
+	- [Directory Structure] (#directory-structure)
+	- [Scripts] (#scripts)
+	- [Firmware Update] (#firmware update)
+	- [Kernel Upgrade] (#kernel upgrade)
 - [Configuration] (#configuration)
 - [Design Sources] (#design_sources)
   - [Electrical] (#electrical)
 	- [Mechanical] (#mechanical)
   - [Assembly] (#assembly)
 - [License Disclosure] (#license)
+
+## Getting Started
+
+The device comes preloaded with the kernel and firmware for operation. Before using the first time use, please charge the Modem for at least 15 minutes with a micro-USB cable. A full battery will last approximately 8-10 hours during operation.
+
+To turn on, press the button on the side of the device once until the LED lights stay on. If there are no lights emitting from the device, ensure that the device is charged.
+
+Once the device is on, the device will automatically proceed with the auto start script, which initiates the connection and data communication with a VI and Android Device.
+
+The following sections describe the next steps.
+
+- [Install] (#install)
+- [Directory Structure] (#directory-structure)
+- [Scripts] (#scripts)
+- [Firmware Update] (#firmware update)
+- [Kernel Upgrade] (#kernel upgrade)e
+
+### Install
+
+
+### Directory Structure
+
+
+### Scripts
+
+
+### Firmware Update
+
+
+### Kernel Upgrade
 
 
 ## Configuration
