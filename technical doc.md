@@ -56,9 +56,9 @@ Be sure Bluetooth is enabled before trying to connect to the Modem. Once the Mod
 
 The main method of configuring and setting up the modem will be through USB from the Modem to a Windows PC. A program called Teraterm will be used to interface with the operating system on the device. To allow ease of use, a program called “OpenXC Modem Connect” will be used to automatically configure the connection settings.
 
-#### Note
-
-Using OpenXC Modem Connect is suggested for easier and faster access to the Modem, although you may choose to manually configure TeraTerm to connect to the modem.
+.. note:: 
+ Using OpenXC Modem Connect is suggested for easier and faster access to the Modem, 
+ although you may choose to manually configure TeraTerm to connect to the modem. 
 
 Download OpenXC Modem Connect [here] (https://github.com/openxc/openxc-accessories/blob/master/tools/ModemConnect/ModemConnect-v1.0.0.143.msi). Detailed instructions are available [here] (https://github.com/openxc/openxc-accessories/blob/master/tools/ModemConnect/Documents/OpenXC%20Modem%20Connect%20App%20Installation%20Procedure.docx).
 
